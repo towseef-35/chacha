@@ -1,9 +1,14 @@
+/* 1:simple counter program
 h1{
-    color: darkblue;
-    font-weight: bold;
     text-align: center;
-    border: 1px solid ;
-    display: inline;
-    align-items: center;
-    background-color: darkgrey;
 }
+#btncontainer{
+    text-align: center;
+    align-items: center;
+}
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 1.5rem;
+    
+} */
